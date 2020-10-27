@@ -7,7 +7,6 @@ body {
 #container{
   position: relative;
   top: 100px;
-  width: 50px;
 }
 
 #content-box{
