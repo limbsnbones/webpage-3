@@ -16,16 +16,18 @@ body {
 }
 
 ul {
-  position: relative;
-  padding: 15px;
-  margin-bottom: 13px;
   list-style-type: none;
+  padding: 0px;
   display: flex;
+  justify-content: left;
 }
 
 a {
+  position: relative;
   text-decoration: none;
   background: #FFF;
+  padding: 15px;
+  margin-bottom: 13px;
 }
 
 a:hover {
