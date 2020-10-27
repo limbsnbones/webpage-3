@@ -20,6 +20,7 @@ ul {
   padding: 0px;
   display: flex;
   justify-content: left;
+  margin-bottom: 13px;
 }
 
 a {
@@ -27,7 +28,6 @@ a {
   text-decoration: none;
   background: #FFF;
   padding: 15px;
-  margin-bottom: 10px;
 }
 
 a:hover {
